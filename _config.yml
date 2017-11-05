@@ -1,1 +1,5 @@
 theme: jekyll-theme-tactile
+menu:
+  Home: /
+  Links: /Links
+  About: /About
